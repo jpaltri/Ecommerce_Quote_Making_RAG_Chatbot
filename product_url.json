@@ -1,0 +1,223 @@
+{
+    "products": [
+      {
+        "product_name": "Depuratore a osmosi inversa - Culligan Zero",
+        "description": "Acqua più leggera e sicura. Design compatto, non necessita di elettricità. Certificato rimozione di PFAS e metalli pesanti.",
+        "price": "€1.149,00",
+        "tax_included": true,
+        "shipping_info": "Spese di spedizione calcolate al check-out.",
+        "quantity": 1,
+        "actions": ["Aggiungi al carrello", "Acquista ora"],
+        "difficulty_of_installation": "Difficult",
+        "installation_recommendation": "SI CONSIGLIA DI AFFIDARSI AD UN IDRAULICO SPECIALIZZATO PER L'INSTALLAZIONE",
+        "additional_info": "Zero stress per avere sempre acqua leggera e sicura. Sistema a osmosi inversa, brevettato e dal design unico e compatto, incluso di pre-trattamento e post-trattamento ad azione batteriostatica, in grado di produrre acqua osmotizzata con alta portata istantanea.",
+        "included_in_price": [
+          "Zero con kit installazione standard",
+          "Puoi acquistare una parte un rubinetto dedicato o un rubinetto a 3 vie per sostituire quello esistente.",
+          "Spese di spedizione gratuite",
+          "Servizio di installazione con un tecnico qualificato opzionale a 289 € iva inclusa (opzione selezionabile al check out)"
+        ],
+        "characteristic": "Depuratore",
+        "share_option": "Condividi"
+      },
+      {
+        "product_name": "Culligan QX3 rubinetto miscelatore a 3 vie in acciaio inox canna angolare",
+        "price": "€149,00",
+        "tax_included": true,
+        "shipping_info": "Spese di spedizione calcolate al check-out.",
+        "quantity": 1,
+        "actions": ["Aggiungi al carrello", "Acquista ora"],
+        "technical_specifications": {
+          "Tipo di rubinetto": "3 vie separate",
+          "Compatibilità dell'impianto con": "AC Slim+, UF Slim+, Intense e Zero",
+          "Tipo di acqua erogata": "Acqua ambiente filtrata | Acqua calda e fredda acquedotto",
+          "Installazione": "sostituzione rubinetto esistente",
+          "Pressione di lavoro": "3,5 bar",
+          "Pressione massima di lavoro": "6,5 bar"
+        },
+        "useful_information": [
+          "L'acciaio è sicuramente il materiale più igienico in assoluto in quanto la sua superficie è completamente liscia e non porosa; quindi, non trattiene i batteri.",
+          "I rubinetti in acciaio inox sono più durevoli rispetto ad altri.",
+          "L'acciaio inox è anche un materiale sicuro e previene eventuali dermatiti da contatto, come invece può capitare con rubinetterie prodotte in ottone nichelato o cromato."
+        ],
+        "characteristic": "Piu venduto",
+        "share_option": "Condividi"
+      },
+      {
+        "product_name": "Pulsante per erogazione acqua filtrata Culligan Click & Drink",
+        "description": "Click & Drink è un semplice pulsante che si collega via wireless al tuo impianto sottolavello e ti permette con semplice tocco di erogare acqua depurata direttamente dal tuo rubinetto, senza bisogno di sostituirlo o di installarne un altro.",
+        "price": "€349,00",
+        "tax_included": true,
+        "shipping_info": "Spese di spedizione calcolate al check-out.",
+        "quantity": 1,
+        "actions": ["Aggiungi al carrello", "Acquista ora"],
+        "additional_info": "Non occorre forare il tuo piano di lavoro e non devi sostituire il tuo rubinetto. Eroga acqua affinata semplicemente con un click.",
+        "installation_info": "La centralina viene installata sottolavello e il pulsante è free-standing alimentato con semplici batterie stilo.",
+        "compatibility": "Click & Drink è compatibile con: CulliganZero e Intense",
+        "weight": "0,3 Kg",
+        "dimensions": {
+          "Centralina": "120 x 120 x 55 mm",
+          "Pulsante": "Ø 80 mm"
+        },
+        "warranty_and_certifications": {
+          "material_compliance": "Click & Drink è realizzato con materiali conformi ai requisiti del DM 25/2012.",
+          "certifications": "Click & Drink è testato e certificato CE.",
+          "warranty": "Click & Drink è coperto da una garanzia di due anni."
+        },
+        "characteristic": "Più conveniente",
+        "share_option": "Condividi"
+      },
+      {
+        "product_bundle_name": "Tutto incluso Culligan Zero+Installazione tecnico specializzato",
+        "products": [
+          {
+            "product_name": "Culligan Zero",
+            "price": "€1.149,00"
+          },
+          {
+            "product_name": "Servizio Installazione impianti",
+            "price": "€289,00"
+          },
+          {
+            "product_name": "Bottiglia Nocturne in vetro - 700ml",
+            "original_price": "€11,00",
+            "current_price": "€0,00"
+          }
+        ],
+        "total_price": {
+          "original_total": "€1.447,00",
+          "discounted_total": "€1.438,00"
+        },
+        "actions": ["Aggiungi al carrello", "Acquista ora"],
+        "characteristic": "Più caro",
+        "company": "Culligan Italiana"
+      },
+      {
+        "product_name": "Culligan X1 rubinetto in acciaio inox monovia",
+        "price": "€59,90",
+        "tax_included": true,
+        "shipping_info": "Spese di spedizione calcolate al check-out.",
+        "quantity": 1,
+        "actions": ["Aggiungi al carrello", "Acquista ora"],
+        "technical_specifications": {
+          "Tipo di rubinetto": "Monovia",
+          "Compatibile con": "AC Slim+, UF Slim+",
+          "Tipo di acqua erogata": "Liscia a temp. ambiente",
+          "Installazione": "In aggiunta al rubinetto esistente",
+          "Pressione di lavoro": "3,5 bar",
+          "Pressione massima di lavoro": "6,5 bar"
+        },
+        "useful_information": [
+          "L'acciaio è sicuramente il materiale più igienico in assoluto in quanto la sua superficie è completamente liscia e non porosa; quindi, non trattiene i batteri.",
+          "I rubinetti in acciaio inox durano molto di più nel tempo rispetto ad altri metalli.",
+          "Non possono essere causa di allergie o dermatiti da contatto, come invece può capitare con rubinetterie prodotte in ottone nichelato o cromato.",
+          "La maggior parte della rubinetteria è realizzata in ottone, miscelati con rame, zinco e un po' di piombo."
+        ],
+        "note": "Grandezza del foro da avere sul lavello è di 25 mm",
+        "additional_info": "I rubinetti monovia hanno una portata massima di 6 litri al minuto, in conformità alle direttive per il risparmio idrico (LEGGE 30 dicembre 2020, n. 178 – GU 20G00202).",
+        "characteristic": "Meno caro",
+        "share_option": "Condividi"
+      },
+      {
+        "product_name": "Culligan rubinetto monovia Led",
+        "price": "€149,00",
+        "tax_included": true,
+        "shipping_info": "Spese di spedizione calcolate al check-out.",
+        "quantity": 1,
+        "actions": ["Aggiungi al carrello", "Acquista ora"],
+        "technical_specifications": {
+          "Corpo": "Inox 304",
+          "Finitura": "Acciaio satinato",
+          "Collo": "Acciaio satinato",
+          "Valvola": "Ottone",
+          "Attacchi flessibili": "1 tubo 1/4”",
+          "Tubo in ottone": "7/16”",
+          "Fori per fissaggio": "30/40 mm",
+          "Pressione di lavoro": "3,5 bar",
+          "Pressione massima di lavoro": "6 bar",
+          "Impianti compatibili": "AC Slim+, UF Slim+, Zero"
+        },
+        "note": "Grandezza del foro da avere sul lavello è di 30 mm",
+        "additional_info": "Il rubinetto monovia è da aggiungere al rubinetto esistente. Questo rubinetto ha un piccolo led che si illuminerà di rosso quando è il momento di sostituire i filtri. Il led è alimentato da batteria.",
+        "characteristic": "Rubinetto con Led",
+        "share_option": "Condividi"
+      },
+      {
+        "product_name": "Culligan QX3E rubinetto miscelatore a 3 vie in acciaio inox con doccetta estraibile",
+        "price": "€249,00",
+        "tax_included": true,
+        "shipping_info": "Spese di spedizione calcolate al check-out.",
+        "quantity": 1,
+        "actions": ["Aggiungi al carrello", "Acquista ora"],
+        "technical_specifications": {
+          "Tipo di rubinetto": "3 vie separate",
+          "Tipo di acqua erogata": "Acqua ambiente filtrata | Acqua calda e fredda acquedotto",
+          "Pressione di lavoro": "3,5 bar",
+          "Pressione massima di lavoro": "6,5 bar",
+          "Installazione": "sostituzione rubinetto esistente",
+          "Impianti compatibili": "AC Slim+, UF Slim+, Intense e Zero"
+        },
+        "useful_information": [
+          "L'acciaio è sicuramente il materiale più igienico in assoluto in quanto la sua superficie è completamente liscia e non porosa; quindi, non trattiene i batteri.",
+          "I rubinetti in acciaio inox sono più durevoli rispetto ad altri.",
+          "L'acciaio inox è anche un materiale sicuro e previene eventuali dermatiti da contatto, come invece può capitare con rubinetterie prodotte in ottone nichelato o cromato."
+        ],
+        "characteristic": "Rubinetto piu professionale",
+        "share_option": "Condividi"
+      },
+      {
+        "product_name": "Servizio Installazione impianti",
+        "description": "Servizio di installazione con un tecnico qualificato per garantire un'installazione corretta e senza problemi.",
+        "price": "€289,00",
+        "tax_included": true,
+        "shipping_info": "Spese di spedizione calcolate al check-out.",
+        "quantity": 1,
+        "actions": ["Aggiungi al carrello", "Acquista ora"],
+        "additional_info": "Il servizio di installazione viene effettuato da un tecnico qualificato, assicurando che il sistema sia installato correttamente e funzioni in modo ottimale. Questo servizio include tutti gli strumenti e le competenze necessarie per un'installazione senza problemi.",
+        "characteristic": "Installazione professionale",
+        "share_option": "Condividi"
+      },
+      {
+        "product_name": "Rubinetto QX5",
+        "model": "QX5",
+        "description": "Miscelatore a canna angolare orientabile. Eroga anche acqua filtrata fredda, ambiente e frizzante. Acciaio inox satinato."
+      },
+      {
+        "product_name": "Rubinetto RX5",
+        "model": "RX5",
+        "description": "Miscelatore a canna a ombrello orientabile. Eroga anche acqua filtrata fredda, ambiente e frizzante. Acciaio inox satinato."
+      },
+      {
+        "product_name": "Rubinetto Ione",
+        "model": "Ione",
+        "description": "Rubinetto con manopole a canna a ombrello. Eroga solo acqua filtrata ambiente, fredda e frizzante. Da abbinare al proprio rubinetto esistente. Acciaio inox."
+      },
+      {
+        "product_name": "Rubinetto Nesea",
+        "model": "Nesea",
+        "description": "Rubinetto con levette a canna angolare. Eroga solo acqua filtrata ambiente, fredda e frizzante. Da abbinare al proprio rubinetto esistente. Ottone nichelato."
+      },
+      {
+        "product_name": "Rubinetto Salmace",
+        "model": "Salmace",
+        "description": "Rubinetto con levette a canna angolare. Eroga solo acqua filtrata ambiente, fredda e frizzante. Da abbinare al proprio rubinetto esistente. Ottone nichelato."
+      },
+      {
+        "product_name": "Rubinetto Led",
+        "model": "Led",
+        "description": "Rubinetto canna a ombrello orientabile. Eroga solo acqua filtrata ambiente. Da abbinare al proprio rubinetto esistente. Provvisto di timer integrato, con indicatore a led, per sostituire i filtri."
+      },
+      {
+        "product_name": "Rubinetto Egeria",
+        "model": "Egeria",
+        "description": "Rubinetto con levetta, posizionabile sotto la finestra. Eroga solo acqua filtrata ambiente. Da abbinare al proprio rubinetto esistente. Ottone nichelato."
+      },
+      {
+        "product_name": "Rubinetto Eco",
+        "model": "Eco",
+        "description": "Rubinetto con levetta a pressione. Eroga solo acqua filtrata ambiente. Da abbinare al proprio rubinetto esistente. Ottone nichelato."
+      }
+    ]
+  }
+  
+  

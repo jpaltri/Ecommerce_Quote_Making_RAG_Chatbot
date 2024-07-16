@@ -1,0 +1,12 @@
+bs4
+langchain
+langchain_chroma
+langchain_community
+langchain_core
+langchain_openai
+langchain_text_splitters
+chainlit
+python-dotenv
+PyPDF2
+uuid
+json
