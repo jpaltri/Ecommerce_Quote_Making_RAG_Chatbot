@@ -41,7 +41,7 @@ This project features a Retrieval-Augmented Generation (RAG) assistant designed 
 
     ```sh
     git clone https://github.com/jpaltrin/Quote_Making_RAG_Chatbot.git
-    cd Quote_Making_RAG_Chatbot
+    cd Ecommerce_Quote_Making_RAG_Chatbot
     ```
 
 2. **Create and activate a virtual environment:**
